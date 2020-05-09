@@ -9,7 +9,7 @@ npm run ios
 dev工具  
 npm run react-devtools  
   
-使用最新的RN版本  
+使用目前较新的RN版本  
    "@react-navigation/material-top-tabs": "^5.1.15",  
    "react": "16.11.0",  
    "react-native": "0.62.2",  
